@@ -1,0 +1,49 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: blue;
+    padding:5px;
+    margin:10px;
+}
+
+h1{
+   color:blue;
+   text-align:center;
+}
+
+footer{
+    background-color:limegreen;
+    padding:3px;
+}
+
+footer p{
+    background-color:white;
+    padding:3px;
+}
+
+nav{
+    background-color:green;
+    margin:20px;
+}
+
+nav a{
+    margin:20px;
+    font-size:20px;
+    text-decoration:none;
+    color:white;
+}
+
+.jojo{
+   background-color:limegreen;
+   margin:5px;
+   padding:10px;
+}
+
+h2{
+    color:blue;
+}
+
+
+
